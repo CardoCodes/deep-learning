@@ -18,9 +18,11 @@ In this repository, you will find a collection of IPython notebooks that demonst
 
 Here are some of the projects included in this repository:
 
-- Project 1: [Project Name](link-to-project)
-- Project 2: [Project Name](link-to-project)
-- Project 3: [Project Name](link-to-project)
+- Project 1: [ASL DL Classifier](https://github.com/CardoCodes/deep-learning/blob/main/ASL_DL_Classifier.ipynb)
+- Project 2: [Heart Attack Classification](https://github.com/CardoCodes/deep-learning/blob/main/heart_attack_classification.ipynb)
+- Project 3: [ASL Pre-Trained](https://github.com/CardoCodes/deep-learning/blob/main/ASL%20Pre-Trained.ipynb)
+- Project 4: [StyleGan 3](https://github.com/CardoCodes/deep-learning/blob/main/StyleGan3.ipynb)
+- Project 5: [DCGan](https://github.com/CardoCodes/deep-learning/blob/main/dcgan.ipynb)
 
 Feel free to explore the projects and use the code as a reference for your own deep learning projects.
 
